@@ -1,5 +1,8 @@
 # What are non-Bitcoin applications of blockchain technology?
 
+![](https://blogs.thomsonreuters.com/answerson/wp-content/uploads/sites/3/2016/01/infographic-how-blockchain-works.jpg)
+
+## DAO
 
 > "In 2015 Uber, the world's largest taxi company owns no vehicles, Facebook the world's most popular media owner creates no content, Alibaba the most valuable retailer has no inventory, and Airbnb the world's largest accommodation provider owns no real estate."*
 
@@ -57,7 +60,7 @@ These are legally binding programmable digitized contracts entered on the blockc
 
 For example, if two people want to exchange $100 at a specific time in future when a set of preconditions are met, the conditions, payout and parties’ details would be programmed into a smart contract. Once the defined conditions are met, funds would be released and sent to the appropriate party as per terms.
 
-![](/assets/main-qimg-dbf8999cf8ad6b3972488a6ad35eb556-c-convert_to_webp=true.jpg)
+![](https://s-media-cache-ak0.pinimg.com/736x/f8/bd/05/f8bd051be13a30aeeaf9139a2806e3f0.jpg)
 
 ## Digital voting
 
