@@ -21,6 +21,16 @@ You can use Bitcoin to send money around the world. Merchants can accept bitcoin
 
 > By **Susan Athey**, Economics of Technology Professor, Stanford GSB; Boards: Expedia, Ripple.
 
+## DNS-like services
+
+With the [Blockstack software](https://github.com/blockstack/blockstack), a network of computers collectively maintain a global registry of names. When you run a Blockstack node, you join this network, which is more secure by design than traditional DNS and identity systems. This is because the system's registry and its records are secured by an underlying blockchain, which is extremely resilient against tampering and control.
+
+In the registry that makes up Blockstack, each of the names has an owner, represented by a cryptographic keypair, and is associated with instructions for how DNS resolvers and other software should resolve the name.
+
+Blockstack is already being used in production and currently more than 60,000 names have been registered using it.
+
+
+
 ## Digital Assets
 
 The blockchain can be used to create digital assets such as stocks, bonds, land titles, and frequent flyer miles. These assets are created using protocols on top of the Bitcoin blockchain. Example protocols include Coloredcoins and Counterparty. Companies using this technology: Chain, NASDAQ, Openchain.
