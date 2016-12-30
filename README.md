@@ -23,7 +23,7 @@ You can use Bitcoin to send money around the world. Merchants can accept bitcoin
 
 ## DNS-like services
 
-With the [Blockstack software](https://github.com/blockstack/blockstack), a network of computers collectively maintain a global registry of names. When you run a Blockstack node, you join this network, which is more secure by design than traditional DNS and identity systems. This is because the system's registry and its records are secured by an underlying blockchain, which is extremely resilient against tampering and control.
+With the [Blockstack software](https://blockstack.org/articles/how-blockstack-works), a network of computers collectively maintain a global registry of names. When you run a Blockstack node, you join this network, which is more secure by design than traditional DNS and identity systems. This is because the system's registry and its records are secured by an underlying blockchain, which is extremely resilient against tampering and control.
 
 In the registry that makes up Blockstack, each of the names has an owner, represented by a cryptographic keypair, and is associated with instructions for how DNS resolvers and other software should resolve the name.
 
