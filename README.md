@@ -82,6 +82,8 @@ The biggest players in manufacturing, tech and telecommunications are all vying 
 
 > Reference: [IBM Reveals Proof of Concept for Blockchain-Powered Internet of Things](http://www.coindesk.com/ibm-reveals-proof-concept-blockchain-powered-internet-things/)
 
+On the other hand, the Internet was originally built on trust. In the post-Snowden era, **it is evident that trust in the Internet is over**. The notion of IoT solutions built as centralized systems with trusted partners is now something of a fantasy. Most solutions today provide the ability for centralized authorities, whether governments, manufacturers or service providers to gain unauthorized access to and control devices by collecting and analyzing user data. (Read [IoADT: Internet of Autonomous Decentralized Things](https://www.linkedin.com/pulse/ioadt-internet-autonomous-decentralized-things-part-tarun-singh) ) 
+
 ## AML and KYC
 Anti-money laundering (AML) and know your customer (KYC) practices have a strong potential for being adapted to the blockchain. Currently, financial institutions must perform a labour intensive multi-step process for each new customer. KYC costs could be reduced through cross-institution client verification, and at the same time increase monitoring and analysis effectiveness.
 
