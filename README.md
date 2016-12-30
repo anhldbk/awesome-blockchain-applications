@@ -68,7 +68,8 @@ The greatest barrier to getting electoral processes online, according to its det
 
 ## Supply chain auditing
 
-Consumers increasingly want to know that the ethical claims companies make about their products are real. Distributed ledgers provide an easy way to certify that the backstories of the things we buy are genuine. Transparency comes with blockchain-based timestamping of a date and location — on ethical diamonds, for instance — that corresponds to a product number.
+Consumers increasingly want to know that the ethical claims companies make about their products are real. Distributed ledgers provide an easy way to certify that the backstories of the 
+we buy are genuine. Transparency comes with blockchain-based timestamping of a date and location — on ethical diamonds, for instance — that corresponds to a product number.
 
 The UK-based Provenance offers supply chain auditing for a range of consumer goods. Making use of the Ethereum blockchain, a Provenance pilot project ensures that fish sold in Sushi restaurants in Japan has been sustainably harvested by its suppliers in Indonesia.
 
@@ -81,6 +82,8 @@ The biggest players in manufacturing, tech and telecommunications are all vying 
 > IBM has unveiled its proof of concept for ADEPT, a system developed in partnership with Samsung that uses elements of bitcoin’s underlying design to build a distributed network of devices – a decentralized Internet of Things.
 
 > Reference: [IBM Reveals Proof of Concept for Blockchain-Powered Internet of Things](http://www.coindesk.com/ibm-reveals-proof-concept-blockchain-powered-internet-things/)
+
+> The IoT might become a multi-trillion dollar market. Stephan Tual, Simon Jentzsch, and Christoph Jentzsch aim to capture a share of that market through slock.it, an ambitious start-up that is building a bridge between the blockchain and the real world. Through the use of a device called the Ethereum Computer, any asset (bike, apartment, car, etc) can be digitally locked or unlocked and turned into income by renting it out. Just as Ethereum crowdfunding does away with the Kickstarter fee, slock.it potentially does away with the AirBnB fee. [More information](https://www.youtube.com/watch?v=BtKo-4usyQs)
 
 On the other hand, the Internet was originally built on trust. In the post-Snowden era, **it is evident that trust in the Internet is over**. The notion of IoT solutions built as centralized systems with trusted partners is now something of a fantasy. Most solutions today provide the ability for centralized authorities, whether governments, manufacturers or service providers to gain unauthorized access to and control devices by collecting and analyzing user data. (Read [IoADT: Internet of Autonomous Decentralized Things](https://www.linkedin.com/pulse/ioadt-internet-autonomous-decentralized-things-part-tarun-singh) ) 
 
@@ -105,6 +108,17 @@ A number of countries are undertaking blockchain-based land registry projects. H
 The potential for added efficiency in share settlement makes a strong use case for blockchains in stock trading. When executed peer-to-peer, trade confirmations become almost instantaneous (as opposed to taking three days for clearance). Potentially, this means intermediaries — such as the clearing house, auditors and custodians — get removed from the process.
 
 Numerous stock and commodities exchanges are prototyping blockchain applications for the services they offer, including the ASX (Australian Securities Exchange), the Deutsche Börse (Frankfurt’s stock exchange) and the JPX (Japan Exchange Group). Most high profile because the acknowledged first mover in the area, is the Nasdaq’s Linq, a platform for private market trading (typically between pre-IPO startups and investors). A partnership with the blockchain tech company Chain, Linq announced the completion of it its first share trade in 2015. More recently, Nasdaq announced the development of a trial blockchain project for proxy voting on the Estonian Stock Market.
+
+### Casinos/online gambling/lotteries
+
+Like to gamble? In the Ethereum platform, you can code provably fair casino style gambling. Imagine playing online poker without the website employees cheating, or playing the lottery without the lotto fees going to private gambling conglomerates. Ethereum will be a gambler’s paradise with no cheating and no fees.
+
+### Prediction Markets
+
+Prediction markets offer a way for market makers/speculators to bet on the binary outcome of an event. Augur and Gnosis are the decentralized versions of prediction markets such as PredictIt. How they ultimately decide to handle the oracle problem will become crucial not only for the success of their app, but will also be a hallmark for blockchain technology, as getting information from the real world into the blockchain reliably and credibly is no simple task. If successful, we will be able to see a new wisdom-of-the-crowd type of governance that has been thought to have many useful applications.
+
+# Web Hosting
+[Swarm](http://swarm-gateways.net/bzz:/swarm/) is the project of Ethereum developer Viktor Tron. As I understand it, decentralized web hosting means that a website is hosted by everyone at once, meaning that it cannot be DDoS attacked or censored by any government. So what we have here is a potentially censorship-free Internet. For example, throw in some decentralized poker, and all of a sudden you have online gambling that is tough for governments to take down. Simple and disruptive.
 
 
 ### Social network
