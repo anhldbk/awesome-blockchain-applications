@@ -21,6 +21,12 @@ You can use Bitcoin to send money around the world. Merchants can accept bitcoin
 
 > By **Susan Athey**, Economics of Technology Professor, Stanford GSB; Boards: Expedia, Ripple.
 
+## Micro Payment
+
+> In Miers' eyes, cryptocurrencies face three main issues: scalability (or the ability to support more users), the slow speed at which transactions are confirmed (around 10 minutes for bitcoin and two-and-a-half minutes for Zcash) and transaction privacy.
+
+> Reference: [Anonymous Blockchain Micropayments Advance With 'Bolt'](http://www.coindesk.com/anonymous-blockchain-micropayments-bolt/)
+
 ## DNS-like services
 
 With the [Blockstack software](https://blockstack.org/articles/how-blockstack-works), a network of computers collectively maintain a global registry of names. When you run a Blockstack node, you join this network, which is more secure by design than traditional DNS and identity systems. This is because the system's registry and its records are secured by an underlying blockchain, which is extremely resilient against tampering and control.
